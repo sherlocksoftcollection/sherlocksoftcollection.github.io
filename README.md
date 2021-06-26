@@ -1,5 +1,7 @@
 # Welcome!
-Hello, visitor (again).  Welcome to my website!  We provide free software download for you.  They are all genuine and we never post pirated software.
+Hello, visitor (again).  Welcome to my website!  We provide free software download for you.  They are all genuine and we never post pirated software. 
+Visit us at: 
+https://sherlocksoftcollection.github.io or https://sherlocksoftcollection.sourceforge.net
 
 
 # Download stats:
